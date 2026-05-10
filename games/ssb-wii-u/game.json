@@ -1,0 +1,21 @@
+{
+  "name": "SSB Wii U",
+  "titleIds": [
+    "0005000010110E00",
+    "0005000010144F00",
+    "0005000010145000"
+  ],
+  "mods": [
+    {
+      "id": "the-vaporware-pack",
+      "name": "The Vaporware Pack",
+      "type": "modpack",
+      "version": "2.0.0",
+      "author": "abc/xyz",
+      "description": "This Pack contains files for stages, characters, and bosses\nIt is filled with stuff that took inspiration from the vaporware concept\nUntil Ultimate modding becomes easier and supports material edits I will be on that asap\nIt Includes:\n- Ocean Samus with complete UI\n- Black Ice Roy, which was made before this\n- Ice Sonic, with Ui made by StankKnight\n- Caribbean Ike\n- Caribbean Sheik\n- FFVII Lantern Cloud (Turquoise)\n- Ice Yoshi\n- Also Includes unfinished projects (most are finished but without csps)\nI will also try to update skins now that I can, but not frequently\nIf there are any problems\nconcerns \ntell me\nhave a nice day",
+      "download": "https://gamebanana.com/dl/456968",
+      "fileSize": 126357745,
+      "sha256": "d4c2bc881e39e6e8d2fd022f6def58cd6ad63e2a52057df6885f2f527b23723d"
+    }
+  ]
+}
